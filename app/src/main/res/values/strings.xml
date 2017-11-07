@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Controls</string>
+    <string name="label">Device Admin Permission</string>
+    <string name="description">This receiver takes permission of the device admin to lock the screen</string>
+</resources>
